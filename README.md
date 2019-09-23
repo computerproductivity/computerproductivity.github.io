@@ -1,3 +1,5 @@
-# computerproductivity.github.io
+# Programs that I use
 
-[yabai](yabai)
+Tiling manager:
+
+- [yabai](yabai)
