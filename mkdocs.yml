@@ -1,0 +1,7 @@
+site_name: Joaquin 
+site_url: http://computerproductivity.com
+markdown_extensions:
+    - toc:
+        permalink: 
+
+
