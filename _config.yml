@@ -29,7 +29,7 @@ baseurl: "/mkdocs-jekyll" # the subpath of your site, e.g. /blog
 url: "https://computerproductivity.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/computerproductivity.github/io"
+repo: "https://github.com/computerproductivity/computerproductivity.github.io"
 github_user: "vsoch"
 github_repo: "mkdocs-jekyll"
 
